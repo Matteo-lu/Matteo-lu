@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mateo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate software development student and electromechanical Engineer from Medellín, Colombia</h3>
+<h3 align="center">A passionate software development student and electromechanical Engineer from Medellín-Colombia</h3>
 
 - 🔭 I’m currently studying at **Holberton School**
-- 🌱 I’m currently learning **Python, javascript, c,and much more**
+- 🌱 I’m currently learning **Python, javascript, c, mysql and much more**
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - 📫 How to reach me: **mateolondono.u@gmail.com**
 - ⚡ What I like to do: **automate, personalize, learn and exercise**
